@@ -1,4 +1,4 @@
-# Skinnea - Capstone Project Bangkit 2023
+# **Skinnea - Capstone Project Bangkit 2023**
 
 ### Task List
 **1. Machine Learning**
@@ -13,7 +13,7 @@
 
 
 
-### Abstract
+### **Abstract**
 
 The skin is the first organ to be exposed to external stimuli, including temperature, touch, and other stimuli, so that skin disease is the most common type of disease and spreads quickly in humans. Accurate identification of skin diseases is very important in the treatment of skin diseases. However, sometimes doctors have difficulty identifying the right type of skin disease because several types of skin disease have similar symptoms or almost the same color and texture. To assist doctors in identifying the types of skin diseases, we try to make a study to identify the types of skin diseases using an image data processing system.
 
@@ -21,7 +21,7 @@ In this research, we try to build a machine learning model that can recognize ty
 
 
 
-### Skinnea Team :
+### **Skinnea Team**
 * (ML) M296DKX4057 – Dzikri Faizziyan
 * (ML) M182DSX0465 – Muhammad Zidan Hendriyadi
 * (ML) M268DSY2500 – Nahla Tarisafitri
