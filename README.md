@@ -2,14 +2,12 @@
 
 ### Task List
   **1. Machine Learning**
-        * [x] Datasets
-        * [x]
-        * []
+  * Dataset 3 classes **(done)** 
+  * Libraries, prepare datasets, image segmentation, pre-processing **(done)**
+  * Build the model **(Done)**
   **2. Cloud Computing**
   **3. Mobile Development**
-* Dataset 3 classes **(done)** 
-* Libraries, prepare datasets, image segmentation, pre-processing **(done)**
-* Build the model **(Done)**
+
 
 ### Abstract
 
