@@ -1,14 +1,16 @@
-# Skinnea - Final Draft
+# Skinnea - Capstone Project Bangkit 2023
 
 ### Task List
 **1. Machine Learning**
-  * Dataset 3 classes **(done)** 
-  * Libraries, prepare datasets, image segmentation, pre-processing **(done)**
-  * Build the model **(Done)**
-  * 
+  * Datasets **(done)** 
+  * Pre-processing **(done)**
+  * Training and validation **(on going)**
+  * Testing **(not yet)**
+
 **2. Cloud Computing**
 
 **3. Mobile Development**
+
 
 
 ### Abstract
