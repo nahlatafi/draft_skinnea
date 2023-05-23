@@ -1,12 +1,12 @@
 # Skinnea - Final Draft
 
 ### Task List
-  **1. Machine Learning**
+**1. Machine Learning**
   * Dataset 3 classes **(done)** 
   * Libraries, prepare datasets, image segmentation, pre-processing **(done)**
   * Build the model **(Done)**
-  **2. Cloud Computing**
-  **3. Mobile Development**
+**2. Cloud Computing**
+**3. Mobile Development**
 
 
 ### Abstract
@@ -18,10 +18,10 @@
 
 
 ### Skinnea Team :
-(ML) M296DKX4057 – Dzikri Faizziyan
-(ML) M182DSX0465 – Muhammad Zidan Hendriyadi
-(ML) M268DSY2500 – Nahla Tarisafitri
-(CC) C172DSX2899 – Aldi Febriyanto
-(CC) C172DSX2236 – Muhammad Faiz Abrar Fatah
-(MD) A084DKX4507 – Pandu Prastiyo Aji
+* (ML) M296DKX4057 – Dzikri Faizziyan
+* (ML) M182DSX0465 – Muhammad Zidan Hendriyadi
+* (ML) M268DSY2500 – Nahla Tarisafitri
+* (CC) C172DSX2899 – Aldi Febriyanto
+* (CC) C172DSX2236 – Muhammad Faiz Abrar Fatah
+* (MD) A084DKX4507 – Pandu Prastiyo Aji
 
