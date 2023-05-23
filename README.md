@@ -2,9 +2,9 @@
 
 ### Task List
   **1. Machine Learning**
-        [x] 
-        [x]
-        []
+        * [x] Datasets
+        * [x]
+        * []
   **2. Cloud Computing**
   **3. Mobile Development**
 * Dataset 3 classes **(done)** 
